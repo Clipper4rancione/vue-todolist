@@ -1,0 +1,16 @@
+.logo img{
+    width: 300px;
+}
+input{
+    border-radius: 5px;
+    width: 350px;
+}
+.button{
+    margin-left: 10px
+}
+.card-body i, span{
+    cursor: pointer;
+}
+.card{
+    margin-top: 10px;
+}
