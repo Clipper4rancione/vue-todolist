@@ -14,3 +14,7 @@ input{
 .card{
     margin-top: 10px;
 }
+
+.done{
+    text-decoration: line-through;
+}
